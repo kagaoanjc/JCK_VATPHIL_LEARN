@@ -49,10 +49,6 @@ The airport caters passenger and cargo flights, as well as general and military 
   </tbody>
 </table>
 
-[^1]: Vertical limit of FL150 can be increased to a maximum of FL200.
-[^2]: Can control top-down RPMR TMA. But check the controller information if they do!
-
-
 ## Runways
 
 <div markdown="1">
@@ -242,7 +238,6 @@ Unless otherwise instructed by ATC, all aircraft landing RWY 05 shall taxi-in vi
 
 
 [^1]: Vertical limit of FL150 can be increased to a maximum of FL200.
-[^2]: Can control top-down Mactan SUB-TMA which includes RPSP and RPVD. But check the controller information if they do!
 
 *[GA]: General Aviation
 *[EOBT]: Estimated off block time
@@ -251,8 +246,7 @@ Unless otherwise instructed by ATC, all aircraft landing RWY 05 shall taxi-in vi
 *[ASRT]: Actual start up time
 *[TTOT]: Target takeoff time
 *[CTOT]: Calculated takeoff time
-*[RPVM_DEL]: Clearance Delivery
-*[RPVM_GND]: Mactan Ground
-*[RPVM_TWR]: Mactan Tower
-*[RPVM_APP]: Mactan Approach
-*[RPVM_S_APP]: Mactan Approach
+*[RPMD_DEL]: Clearance Delivery
+*[RPMD_TWR]: Davao Tower
+*[RPMD_APP]: Davao Approach
+*[RPMD_R_APP]: Davao Radio
