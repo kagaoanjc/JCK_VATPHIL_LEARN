@@ -5,7 +5,11 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
 
 [RPLL](https://learn.vatphil.com/briefings/RPLL/){ .md-button .md-button--primary }
 
+[RPLC](https://learn.vatphil.com/briefings/RPLC/){ .md-button .md-button--primary }
+
 [RPVM](https://learn.vatphil.com/briefings/RPVM/){ .md-button .md-button--primary }
+
+[RPVE](https://learn.vatphil.com/briefings/RPVE/){ .md-button .md-button--primary }
 
 [RPMD](https://learn.vatphil.com/briefings/RPMD/){ .md-button .md-button--primary }
 
