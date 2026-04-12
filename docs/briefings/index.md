@@ -1,7 +1,7 @@
 # Briefings
 Here you will find aerodrome briefings for the airports within the Philippines! To start select an Aerodrome below.
 
-<div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(55px, 1fr)); gap: 1rem;" markdown>
+<div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 1rem;" markdown>
 
 [RPLL](https://learn.vatphil.com/briefings/RPLL/){ .md-button .md-button--primary }
 
