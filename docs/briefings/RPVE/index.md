@@ -35,9 +35,9 @@ The airport caters passenger and cargo flights, as well as general and military 
     </tr>
     <tr>
       <td style="text-align:center"><strong>RPVK_APP</strong></td>
-      <td style="text-align:center">Kalibo Approach[^2]</td>
+      <td style="text-align:center">Kalibo Approach</td>
       <td style="text-align:center">122.400</td>
-      <td style="text-align:center">TMA 1500 ft - FL150[^1]</td>
+      <td style="text-align:center">TMA 1500 ft - FL150</td>
     </tr>
   </tbody>
 </table>
@@ -219,12 +219,6 @@ APP will then issue your arrival clearance including the type of approach to exp
 !!! warning
 
     If APP didn’t give you any turns after you have passed the last waypoint on your routing, maintain your present heading.
-
-
-## Taxi Routing
-
-Unless otherwise instructed by ATC, all aircraft landing RWY 05 shall taxi-in via taxiway A4. Aircraft landing RWY 23 shall taxi-in via taxiway A3
-
 
 [^1]: Vertical limit of FL150 can be increased to a maximum of FL200.
 [^2]: Controls RPVE, RPVK and RPVR
