@@ -5,11 +5,11 @@
     2. 122.400 Mhz (RPVK_APP)
     3. 121.500 MHz (Emergency Frequency)
 
-2. All arriving VFR flights shall establish contact and remain on listening watch with CAT_TWR upon entering the Caticlan CTR, or establish two-way radio contact 10 NM to the airport
-3. All departing VFR flights shall maintain listening watch on CAT_TWR until outside the ATZ (5 NM from ARP)
+2. All arriving VFR flights shall establish contact and remain on listening watch with RPVE_TWR upon entering the Caticlan CTR, or establish two-way radio contact 10 NM to the airport
+3. All departing VFR flights shall maintain listening watch on RPVE_TWR until outside the ATZ (5 NM from ARP)
 4. IFR flights shall have priority over VFR flights
 5. Maintain not above 2000 FT within the Caticlan CTR (10 NM radius)
-6. VFR helicopter flights shall not operate within Caticlan ATZ when ceiling is less than 1000 FT or ground visibility is less than 1.5 KM (1 NM), except when clearance is obtained from CAT_TWR
+6. VFR helicopter flights shall not operate within Caticlan ATZ when ceiling is less than 1000 FT or ground visibility is less than 1.5 KM (1 NM), except when clearance is obtained from RPVE_TWR
 7. Any deviation from departure / arrival procedures shall be subject to ATC approval
 
 !!! warning
