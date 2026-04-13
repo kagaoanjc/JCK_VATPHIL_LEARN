@@ -39,3 +39,33 @@
   -webkit-mask-image: var(--md-admonition-icon--weather);
           mask-image: var(--md-admonition-icon--weather);
 }
+
+.pdf-card {
+  border: 0.5px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.pdf-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: var(--md-code-bg-color);
+  font-size: 0.85rem;
+}
+
+.pdf-link {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+}
+
+.pdf-link:hover { text-decoration: underline; }
+
+.pdf-card iframe {
+  display: block;
+  border: none;
+}
