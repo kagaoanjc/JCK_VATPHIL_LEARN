@@ -1,5 +1,3 @@
-## Phraseology References
-
 <div class="pdf-card">
   <div class="pdf-card-header">
     <strong>ICAO Doc 9432 — Manual of Radiotelephony</strong>
