@@ -1,6 +1,6 @@
 # RPLL - Manila - Ninoy Aquino International Airport
 
-# General
+## General
 The Ninoy Aquino International Airport has 2 Runways, 4 passenger terminals, 2 general aviation areas, 1 military airbase, 1 maintenance hangar, and 1 presidential ramp.
 
 - Terminal 1 - International and Cargo Terminal
@@ -10,10 +10,10 @@ The Ninoy Aquino International Airport has 2 Runways, 4 passenger terminals, 2 g
 
 The airport caters passenger and cargo flights, as well as general and military aviation.
 
-# Charts
+## Charts
 [RPLL](https://vatphil.com/charts){ .md-button .md-button--primary }
 
-# Frequency List
+## Frequency List
 <table>
   <thead>
     <tr>
@@ -101,14 +101,14 @@ The airport caters passenger and cargo flights, as well as general and military 
   </tbody>
 </table>
 
-# Stand Assignments
+## Stand Assignments
 
 Bay assignments, are strictly implemented virtually, and are based on the latest
 real-world operations. Virtual and other real-world airlines that are not listed will park at terminal 1.
 
 <iframe src="../../assets/pdfs/stands.pdf" width="70%" height="500px""></iframe>
 
-# Runways
+## Runways
 
 <div markdown="1">
 Manila currently only has 2 runways that intersect each other.
@@ -168,11 +168,13 @@ Below is a table of the Take-Off Run available
 
     Runway 31 is only for departures.
 
-# Routes
+## Routes
 
 Local flights within RPHI and some international flights are to use routes given below. Simbrief also give a standard route which looks like this
 
 ![Simbrief Routes](../../assets/img/simbrief.png)
+
+<iframe src="../../assets/pdfs/routes.pdf" width="70%" height="500px""></iframe>
 
 If your route is still invalid, a controller will send you a private message with your new route. Routes within RPHI are to follow the half-moon principle in both RVSM and non-RVSM conditions. During events you will have 5 minutes between the time you request clearance and the time you request pushback, or you will have to wait until a new slot is available.
 
@@ -181,7 +183,7 @@ If your route is still invalid, a controller will send you a private message wit
     During events it is important that you put your EOBT in your flight plan as 
     controllers will use that to determine your takeoff slot.
 
-# Waypoint Restrictions
+## Waypoint Restrictions
 
 <h3 style="text-align:center"><strong>Waypoint Restrictions</strong></h3>
 
@@ -238,7 +240,7 @@ If your route is still invalid, a controller will send you a private message wit
   </tbody>
 </table>
 
-# Clearance
+## Clearance
 
 On first contact with the controller that will issue your clearance, it is recommended for you to give
 the following information:
@@ -276,7 +278,7 @@ You must read back the clearance in full. Listen carefully to all details that t
 
         **RPLL_DEL**: CEB585, cleared Mactan, W25 BATAY, RUNWAY 06, fly runway heading, climb 7000ft, expect radar vectors IPATA, squawk 4251
 
-# Pushback
+## Pushback
 
 Normally, a controller will instruct you to push back to the nearest start-up point. The location of the start-up points are indicated in available charts 
 
@@ -312,7 +314,7 @@ In the event there is **RPLL_P_GND**
     At ± 5 TOBT **RPLL_P_GND**: CEB585, contact ground ramp 121.350
 
 
-# Departure
+## Departure
 
 The departure procedure is decided by an online Approach (**APP**) or En-route Controller (**CTR**). When both are offline, Standard Instrument Departures (**SIDs**) are given by the aerodrome controllers (**TWR**, **GND** or **DEL**). When either **APP** or **CTR** is online, they decide if departures will be given radar vectors (climb and heading instructions) to the TMA exit points or will be following a **SID**.
 
@@ -324,7 +326,11 @@ When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPLL, r
 
     **RPLL_F_APP**: “PAL300, radar identified, continue climb 7000”
 
-# Arrival
+### Runway Occupancy Time-Departure (ROTD)
+
+At RPLL we implement ROTD - Runway Occupancy Time-Departure for **A320 and lower**. ROTD of 45 seconds will start at the time the aircraft reaches no 1 position (lined-up on the runway threshold marker) and the pilot reads back the ATC’s take-off clearance to the time it is airborne (wheels off the ground).
+
+## Arrival
 
 When arriving in to Manila, it is best for you to be in between FL160 and FL200 when reaching the border of the TMA or the start of the [STAR](https://learn.vatphil.com/briefings/arrival/star/). On initial contact with Manila Approach (RPLL_APP), report your current level.
 
@@ -393,35 +399,61 @@ Below is the mandatory speed restrictions when under vectors by approach.
   </tbody>
 </table>
 
-## Single Scope Operation
+## Manila Approach
+
+### Single Scope Operation
+
+<div markdown class="grid" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+<div markdown>
 ![RPLL_APP](../../assets/img/RPHI/4.png)
+</div>
+<div markdown>
 
 | Designator | Vertical Limits | Frequency |
 |-----|----|----|
 | RPLL_APP[^2] | 1500ft - FL150[^1] | 124.800 |
 
-## Two Scope Operation
+</div>
+</div>
+
+### Two Scope Operation
+
+<div markdown class="grid" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+<div markdown>
 ![RPLL_APP](../../assets/img/RPHI/3.png)
+</div>
+<div markdown>
 
 | Designator | Vertical Limits | Frequency |
 |-----|------|----|
 | RPLL_F_APP | 1500ft - 7000ft | 124.400 |
 | RPLL_APP[^2] | 8000ft - FL150[^1] | 124.800 |
 
-## Three Scope Operation
+</div>
+</div>
+
+### Three Scope Operation
+
+<div markdown class="grid" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+<div markdown>
 ![RPLL_APP](../../assets/img/RPHI/2.png)
+</div>
+<div markdown>
 
 | Designator | Vertical Limits | Frequency |
 |-----|----|----|
 | RPLL_F_APP  | 1500ft - 7000ft | 124.400 |
-| RPLL_N_APP[^2] | 8000ft - FL150[^1] | 124.800 |
+| RPLL_N_APP[^2] | 8000ft - FL150[^1] | 119.900 |
 | RPLL_S_APP | 8000ft - FL150[^1] | 127.700 |
+
+</div>
+</div>
 
 [^1]: Vertical limit of FL150 can be increased to a maximum of FL200.
 [^2]: Can control top-down Clark TMA which includes RPLC and RPLB. But check the controller information if they do!
 
 
-# Vacating
+## Vacating
 
 You must vacate the runway as fast as possible in order for TWR to make best use of the runway.
 
@@ -468,6 +500,11 @@ You have not vacated the runway until you have fully passed the runway stop bar,
 
 The controller may give you a taxi instruction to vacate and some might not. If so, keep moving until you are vacated and hold position until GND has given you further instructions to taxi.
 
+### Runway Occupancy Time-Arrivals (ROTA)
+For arrivals we implement ROTA - Runway Occupancy Time-Arrivals for **A320 and lower**. ROTA of 55 seconds will start at the time the aircraft reaches above the threshold marker to the time it vacates.
+
+*[ROTD]: Runway Occupancy Time-Departure
+*[ROTA]: Runway Occupancy Time-Arrivals
 *[EOBT]: Estimated off block time
 *[TOBT]: Target off block time
 *[TSAT]: Target start approval time

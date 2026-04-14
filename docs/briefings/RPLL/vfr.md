@@ -22,6 +22,8 @@
 
 ![VFR area chart Fixed Wing](<../../assets/img/RPLL VFR/VFR Area Chart Fixed Wing.png>)
 
+# VFR Departure
+
 ## Northbound aircraft FIXED WING
 
 **Runway 06/13**
@@ -161,7 +163,7 @@ Follow next instructions of ATC
 </div>
 </div>
 
-## VFR Arrival Flights
+# VFR Arrival
 
 === "From the North"
 
@@ -180,7 +182,7 @@ Follow next instructions of ATC
         a. Runway 13: request for clearance to cross over threshold/final approach path of RWY 06 prior to entering downwind at traffic pattern altitude.<br>
         b. Runway 06/24: Subject to ATC instructions
 
-=== "From the west"
+=== "From the West"
 
     1. Report to RPLL_APP/RPLL_F_APP approaching CORREGIDOR at or below 2500 FT.
     2. Continue towards abeam Sangley not above 1500 FT within 10 NM RPLL, contact RPLL_TWR for further instructions
@@ -198,3 +200,7 @@ Follow next instructions of ATC
 === "Runway 13"
 
     ![RPLL_TrafficPattern_13](<../../assets/img/RPLL VFR/traffic pattern/Pattern13.png>)
+
+!!! warning
+
+    Runway 31 can only be used in an emergency.

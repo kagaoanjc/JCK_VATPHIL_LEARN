@@ -6,7 +6,7 @@ The Philippines vACC utilizes Eurocontrol for its Air Traffic Controllers as it 
 
 to be added
 
-??? info "Version 0.6"
+??? info "Version 0.7.5"
 
     Very close to V1!
 

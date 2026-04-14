@@ -18,7 +18,7 @@
 
 ## VFR Departures
 
-=== "VFR departures RWY 04L / RWY 04R"
+=== "RWY 04L / RWY 04R"
 
     North bound aircraft FIXED WING
 
@@ -27,15 +27,15 @@
 
     Southwest bound aircraft FIXED WING
 
-    1. After airborne, turn left towards SM SEASIDE
-    2. Proceed NAGA not above 1000 FT, Contact RPVM_APP or proceed as instructed by ATC
+    3. After airborne, turn left towards SM SEASIDE
+    4. Proceed NAGA not above 1000 FT, Contact RPVM_APP or proceed as instructed by ATC
 
     Southeast bound aircraft FIXED WING
 
-    1. After airborne, turn right SOUTHEAST towards PANDANON
-    2. Contact RPVM_APP or proceed as instructed by ATC
+    5. After airborne, turn right SOUTHEAST towards PANDANON
+    6. Contact RPVM_APP or proceed as instructed by ATC
 
-=== "VFR departures RWY 22L / RWY 22R"
+=== "RWY 22L / RWY 22R"
 
     North bound aircraft FIXED WING
 
@@ -44,17 +44,17 @@
 
     Southwest bound aircraft FIXED WING
 
-    1. After airborne, turn right towards SM SEASIDE
-    2. Proceed NAGA not above 1000 FT, Contact RPVM_APP or proceed as instructed by ATC
+    3. After airborne, turn right towards SM SEASIDE
+    4. Proceed NAGA not above 1000 FT, Contact RPVM_APP or proceed as instructed by ATC
 
     Southeast bound aircraft FIXED WING
 
-    1. After airborne, turn left SOUTHEAST towards PANDANON
-    2. Contact RPVM_APP or proceed as instructed by ATC
+    5. After airborne, turn left SOUTHEAST towards PANDANON
+    6. Contact RPVM_APP or proceed as instructed by ATC
 
-## VFR Arrival
+## VFR Arrivals
 
-=== "VFR arrivals RWY 04L / RWY 04R"
+=== "RWY 04L / RWY 04R"
 
     From the North
 
@@ -83,7 +83,7 @@
     3. Obtain clearance to join final O4R or 04L, or proceed as instructed by ATC
         
 
-=== "VFR arrivals RWY 22L / RWY 22R"
+=== "RWY 22L / RWY 22R"
 
     From the North
 
