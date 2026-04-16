@@ -15,7 +15,7 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
     [Ninoy Aquino International Airport - RPLL →](https://learn.vatphil.com/briefings/RPLL/)
 
     [Clark International Airport - RPLC →](https://learn.vatphil.com/briefings/RPLC/)
-    
+
 -   **Visayas**
 
     ---
@@ -24,6 +24,8 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
     [Godofredo P. Ramos Airport →](https://learn.vatphil.com/briefings/RPVE/)
 
     [Kalibo International Airport →](https://learn.vatphil.com/briefings/RPVK/)
+
+    [Roxas Airport →](https://learn.vatphil.com/briefings/RPVR/)
 
 -   **Mindinao**
 
