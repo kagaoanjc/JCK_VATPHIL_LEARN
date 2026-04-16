@@ -1,7 +1,12 @@
 # Briefings
 Here you will find aerodrome briefings for the airports within the Philippines! To start select an Aerodrome below.
 
-<div class="grid cards" markdown>
+<style>
+  .grid.cards p strong {
+    color: #a0a0a0;
+  }
+</style>
+<div class="grid cards" style="text-align: center" markdown>
 
 -   **RPLL**
 
@@ -31,6 +36,12 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
 
     [Open Briefing →](https://learn.vatphil.com/briefings/RPVE/)
 
+-   **RPVK**
+
+    ---
+    Kalibo International Airport
+
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPVK/)
 -   **RPMD**
 
     ---

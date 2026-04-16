@@ -1,4 +1,4 @@
-# RPVE - Godofredo P. Ramos Airport
+# RPVK - Kalibo International Airport
 
 ## General
 Kalibo International Airport has 1 Runway and 1 passenger terminal
@@ -175,7 +175,7 @@ In Kalibo, expect to make a right-hand 180 turn to taxi to the runway
 
 The departure procedure is decided by an online Approach (**APP**) or En-route Controller (**CTR**). When both are offline, Standard Instrument Departures (**SIDs**) are given by the aerodrome controllers (**TWR**, **GND** or **DEL**). When either **APP** or **CTR** is online, they decide if departures will be given radar vectors (climb and heading instructions) to the TMA exit points or will be following a **SID**.
 
-When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPVE, report your passing altitude to **APP**  or **CTR**. This is to help them identify you successfully in their radar screens.
+When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPVK, report your passing altitude to **APP**  or **CTR**. This is to help them identify you successfully in their radar screens.
 
 ??? phraseology "Phraseology"
 
