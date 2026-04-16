@@ -15,6 +15,7 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
     [Ninoy Aquino International Airport - RPLL →](https://learn.vatphil.com/briefings/RPLL/)
 
     [Clark International Airport - RPLC →](https://learn.vatphil.com/briefings/RPLC/)
+    
 -   **Visayas**
 
     ---
