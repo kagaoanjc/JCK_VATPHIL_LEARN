@@ -65,22 +65,22 @@
 
     From the East
 
-    5. Report to RPVM_TWR approaching CAUBYAN
-    6. Proceed MABINI
-    7. Obtain clearance to join right downwind 04R or 04L, or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching CAUBYAN
+    2. Proceed MABINI
+    3. Obtain clearance to join right downwind 04R or 04L, or proceed as instructed by ATC
 
     From the Southeast
 
-    8. Report to RPVM_TWR approaching COAMEN
-    9. Proceed GILUTONGAN
-    10. Continue towards PLANTATION BAY
-    11. Obtain clearance to join right downwind 04R or 04L or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching COAMEN
+    2. Proceed GILUTONGAN
+    3. Continue towards PLANTATION BAY
+    4. Obtain clearance to join right downwind 04R or 04L or proceed as instructed by ATC
 
     From the Southwest
 
-    12. Report to RPVM_TWR approaching EAST of NAGA not higher than 1000 FT
-    13. Proceed IL CORSO
-    14. Obtain clearance to join final O4R or 04L, or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching EAST of NAGA not higher than 1000 FT
+    2. Proceed IL CORSO
+    3. Obtain clearance to join final O4R or 04L, or proceed as instructed by ATC
         
 
 === "RWY 22L / RWY 22R"
@@ -94,22 +94,22 @@
 
     From the East
 
-    5. Report to RPVM_TWR approaching CAUBYAN
-    6. Proceed MABINI
-    7. Obtain clearance to join left downwind 22R or 22L, or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching CAUBYAN
+    2. Proceed MABINI
+    3. Obtain clearance to join left downwind 22R or 22L, or proceed as instructed by ATC
 
     From the Southeast
 
-    8. Report to RPVM_TWR approaching COAMEN
-    9. Proceed GILUTONGAN
-    10. Continue towards PLANTATION BAY
-    11. Obtain clearance to join left downwind 22R or 22L or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching COAMEN
+    2. Proceed GILUTONGAN
+    3. Continue towards PLANTATION BAY
+    4. Obtain clearance to join left downwind 22R or 22L or proceed as instructed by ATC
 
     From the Southwest
 
-    12. Report to RPVM_TWR approaching EAST of NAGA not higher than 1000 FT
-    13. Proceed IL CORSO
-    14. Obtain clearance to join midfield downwind 22R or 22L, or proceed as instructed by ATC
+    1. Report to RPVM_TWR approaching EAST of NAGA not higher than 1000 FT
+    2. Proceed IL CORSO
+    3. Obtain clearance to join midfield downwind 22R or 22L, or proceed as instructed by ATC
 
 ## Traffic Patterns
 

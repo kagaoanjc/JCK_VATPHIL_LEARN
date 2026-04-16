@@ -19,13 +19,11 @@
     Pilots shall be aware of the terrain East of the airport (Samal Island) and Southwest of the airport (Mount Apo)
 
 
-## VFR Departure Flights
-
-### VFR Area Chart FIXED WING
+## VFR Area Chart FIXED WING
 
 ![VFR Area Chart RPMD](<../../assets/img/RPMD VFR/VFR Area Chart RPMD.png>)
 
-### VFR Departures
+## VFR Departures
 
 === "VFR departures 05"
 
@@ -75,48 +73,48 @@
     1. After airborne, turn right towards JADE VALLEY
     2. Report 15 NM West or proceed as instructed by ATC
 
-### VFR Arrival
+## VFR Arrival
 
 === "VFR arrivals RWY 05"
 
     From the North
 
-        1. Report to RPMD_TWR approaching DAVAO DEL NORTE STATE COLLEGE
-        2. Proceed PALOS VERDES
-        3. Obtain clearance to join left downwind RWY 05 or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching DAVAO DEL NORTE STATE COLLEGE
+    2. Proceed PALOS VERDES
+    3. Obtain clearance to join left downwind RWY 05 or proceed as instructed by ATC
 
     From the East/South
 
-        1. Report to RPMD_TWR approaching East of TALIKUD ISLAND
-        2. Proceed PEÑAPLATA
-        3. Obtain clearance to join right downwind RWY 05, or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching East of TALIKUD ISLAND
+    2. Proceed PEÑAPLATA
+    3. Obtain clearance to join right downwind RWY 05, or proceed as instructed by ATC
 
     From the West
 
-        1. Report to RPMD_TWR approaching CALINAN
-        2. Proceed PALOS VERDE
-        3. Obtain clearance to join left downwind RWY 05, or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching CALINAN
+    2. Proceed PALOS VERDE
+    3. Obtain clearance to join left downwind RWY 05, or proceed as instructed by ATC
         
 
 === "VFR arrivals RWY 23"
 
     From the North
 
-        1. Report to RPMD_TWR approaching DAVAO DEL NORTE STATE COLLEGE
-        2. Proceed PALOS VERDES
-        3. Obtain clearance to join right downwind RWY 23 or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching DAVAO DEL NORTE STATE COLLEGE
+    2. Proceed PALOS VERDES
+    3. Obtain clearance to join right downwind RWY 23 or proceed as instructed by ATC
 
     From the East/South
 
-        1. Report to RPMD_TWR approaching East of TALIKUD ISLAND
-        2. Proceed PEÑAPLATA
-        3. Obtain clearance to join left downwind RWY 23, or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching East of TALIKUD ISLAND
+    2. Proceed PEÑAPLATA
+    3. Obtain clearance to join left downwind RWY 23, or proceed as instructed by ATC
 
     From the West
 
-        1. Report to RPMD_TWR approaching CALINAN
-        2. Proceed PALOS VERDE
-        3. Obtain clearance to join right downwind RWY 23, or proceed as instructed by ATC
+    1. Report to RPMD_TWR approaching CALINAN
+    2. Proceed PALOS VERDE
+    3. Obtain clearance to join right downwind RWY 23, or proceed as instructed by ATC
 
 
 ## Traffic Patterns

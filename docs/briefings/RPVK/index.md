@@ -1,14 +1,14 @@
 # RPVE - Godofredo P. Ramos Airport
 
 ## General
-The Godofredo P. Ramos Airport (also known as Caticlan) has 1 Runway and 2 passenger terminals
+Kalibo International Airport has 1 Runway and 1 passenger terminal
 
-- Main Terminal - Domestic and Cargo Flights 
+- Main Terminal - Domestic, International and Cargo Flights 
 
 The airport caters passenger and cargo flights, as well as general and military aviation.
 
 ## Charts
-[RPVE](https://vatphil.com/charts?icao=RPVE){ .md-button .md-button--primary }
+[RPVK](https://vatphil.com/charts?icao=RPVK){ .md-button .md-button--primary }
 
 ## Frequency List
 <table>
@@ -22,15 +22,9 @@ The airport caters passenger and cargo flights, as well as general and military 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center"><strong>RPVE_ATIS</strong></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">126.800</td>
-      <td style="text-align:center">Every hour</td>
-    </tr>
-    <tr>
-      <td style="text-align:center"><strong>RPVE_TWR</strong></td>
-      <td style="text-align:center">Caticlan Tower</td>
-      <td style="text-align:center">118.600</td>
+      <td style="text-align:center"><strong>RPVK_TWR</strong></td>
+      <td style="text-align:center">Kalibo Tower</td>
+      <td style="text-align:center">124.200</td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
@@ -45,7 +39,7 @@ The airport caters passenger and cargo flights, as well as general and military 
 ## Runways
 
 <div markdown="1">
-Caticlan currently has 1 runway.
+Kalibo currently has 1 runway.
 Below is a table of the Take-Off Run available
 
 **Take-off Run Available.**
@@ -60,11 +54,11 @@ Below is a table of the Take-Off Run available
   <tbody>
     <tr>
       <td style="text-align:center"><strong>06</strong></td>
-      <td style="text-align:center">5,554 (1693)</td>
+      <td style="text-align:center">8,202 (2500)</td>
     </tr>
     <tr>
       <td style="text-align:center"><strong>24</strong></td>
-      <td style="text-align:center">5,554 (1693)</td>
+      <td style="text-align:center">8,202 (2500)</td>
     </tr>
   </tbody>
 </table>
@@ -145,7 +139,6 @@ the following information:
 
 - Your bay number
 - Your aircraft type
-- The ATIS information letter
 
 !!! warning
 
@@ -160,28 +153,22 @@ You must read back the clearance in full. Listen carefully to all details that t
 
 ??? phraseology
 
-    **CEB920**: Caticlan Tower, CEB920, Stand 4, A-3-2-0 with information A, request clearance Manila.
+    **CEB332**: Kalibo Tower, CEB332, Stand 5, A-3-2-0, request clearance Manila.
 
-    **RPVE_TWR**: CEB920, cleared Manila, B473 LAIYA, RUNWAY 06 MINOR8A, Climb FL150, Squawk 4024
+    **RPVK_TWR**: CEB332, cleared Manila, B473 LAIYA, RUNWAY 05 MINOR2P, Climb FL150, Squawk 4024
 
-## Pushback
+## Taxi
 
-Normally, a controller in Caticlan will instruct you to push back to the nearest start-up point. Other times, they will push you to a reference point.
+In Kalibo, expect to make a right-hand 180 turn to taxi to the runway
 
-For RWY 06 departures, expect to face West
-
-For RWY 24 departures, expect to face East
-
-!!! warning 
-
-    1. **Do not preplan your pushback!**
-    2. Connect the tug first!
 
 ??? phraseology "Phraseology"	
 
-    **CEB920**: Caticlan Tower, CEB920, Stand 4, request push and start, runway 06.
+    **CEB332**: Kalibo Tower, CEB332, Stand 5, request taxi runway 05
 
-    **RPVE_TWR**: CEB920, push and start approved, abeam stand 5, face West
+    **RPVK_TWR**: CEB332, make 180, taxi B hold short 05
+
+    **CEB332**: 180 to taxi B hold short 05, CEB332
 
 
 ## Departure
@@ -192,29 +179,29 @@ When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPVE, r
 
 ??? phraseology "Phraseology"
 
-    **CEB920**: Kalibo Approach, CEB920, passing 2000, climbing FL150, MINOR8A
+    **CEB332**: Kalibo Approach, CEB332, passing 2000, climbing FL150, MINOR2P
 
-    **RPVK_APP**: CEB920, radar identified, continue climb FL150
+    **RPVK_APP**: CEB332, radar identified, continue climb FL150
 
 ## Arrival
 
-When arriving into Caticlan, it is best for you to be in between 10,000 FT and FL130 when reaching the border of the TMA or the start of the STAR. On initial contact with Kalibo Approach (RPVK_APP), report your current level.
+When arriving into Caticlan, it is best for you to be by FL140  when reaching the border of the TMA by the North or 9000 feet when reaching the border of the TMA by the South or the start of the STAR. On initial contact with Kalibo Approach (RPVK_APP), report your current level.
 
 ??? phraseology "Phraseology"
 
-    **CEB919**: Kalibo Approach, CEB919, FL130, inbound TAPER
+    **CEB331**: Kalibo Approach, CEB331, FL140, inbound TAPER
 
 APP will then issue your arrival clearance including the type of approach to expect to the active runway. APP either gives you radar vectors to final or gives you descent clearances via a STAR.
 
 ??? phraseology "Phraseology"
 
-    **RPVK_APP**: CEB919, radar contact, cleared Caticlan expect radar vectors RNP 06
+    **RPVK_APP**: CEB331, radar contact, cleared Kalibo TAPER1A expect RNP Z 05
 
-    **CEB919**: Cleared Caticlan expect radar vectors RNP 06, CEB919
+    **CEB331**: Cleared Kalibo TAPER1A expect RNP Z 05, CEB331
 
-    **RPVK_APP**: CEB919, Maintain present heading, descend 8,000, QNH 1011
+    **RPVK_APP**: CEB331, descend via STAR 8,000, QNH 1011
 
-    **CEB919**: Maintain present heading, descend 8,000, QNH 1011, CEB919
+    **CEB919**: descend via STAR 8,000, QNH 1011, CEB331
 
 !!! warning
 
@@ -230,5 +217,5 @@ APP will then issue your arrival clearance including the type of approach to exp
 *[ASRT]: Actual start up time
 *[TTOT]: Target takeoff time
 *[CTOT]: Calculated takeoff time
-*[RPVE_TWR]: Caticlan Tower
-*[RPVK_APP]: Caticlan Approach
+*[RPVK_TWR]: Kalibo Tower
+*[RPVK_APP]: Kalibo Approach
