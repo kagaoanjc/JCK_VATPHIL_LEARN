@@ -79,9 +79,3 @@ markdown_extensions:
   - pymdownx.snippets
   - toc:
       permalink: true
-
-nav:
-  - Welcome: index.md
-  - Briefings: briefings
-  - Classroom: classroom
-  - Controllers: controllers
