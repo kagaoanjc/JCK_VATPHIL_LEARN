@@ -8,7 +8,7 @@ Kalibo International Airport has 1 Runway and 1 passenger terminal
 The airport caters passenger and cargo flights, as well as general and military aviation.
 
 ## Charts
-[RPVE](https://vatphil.com/charts?icao=RPVK){ .md-button .md-button--primary }
+[RPVK](https://vatphil.com/charts?icao=RPVK){ .md-button .md-button--primary }
 
 ## Frequency List
 <table>
@@ -153,7 +153,7 @@ You must read back the clearance in full. Listen carefully to all details that t
 
 ??? phraseology
 
-    **CEB332**: Caticlan Tower, CEB332, Stand 5, A-3-2-0, request clearance Manila.
+    **CEB332**: Kalibo Tower, CEB332, Stand 5, A-3-2-0, request clearance Manila.
 
     **RPVK_TWR**: CEB332, cleared Manila, B473 LAIYA, RUNWAY 05 MINOR2P, Climb FL150, Squawk 4024
 
@@ -217,5 +217,5 @@ APP will then issue your arrival clearance including the type of approach to exp
 *[ASRT]: Actual start up time
 *[TTOT]: Target takeoff time
 *[CTOT]: Calculated takeoff time
-*[RPVE_TWR]: Caticlan Tower
-*[RPVK_APP]: Caticlan Approach
+*[RPVK_TWR]: Kalibo Tower
+*[RPVK_APP]: Kalibo Approach
