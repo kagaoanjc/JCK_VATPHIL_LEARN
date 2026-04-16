@@ -1,5 +1,14 @@
 nav:
-    - Welcome: index.md
-    - Briefings: briefings
-    - Classroom: classroom
-    - Controllers: controllers
+  - Welcome: index.md
+  - Briefings:
+      - Overview: briefings/index.md
+      - RPLL: briefings/RPLL/index.md
+      - RPLC: briefings/RPLC/index.md
+      - RPVM: briefings/RPVM/index.md
+      - RPVE: briefings/RPVE/index.md
+      - RPMD: briefings/RPMD/index.md
+      - RPHI: briefings/RPHI/index.md
+  - Classroom:
+      - Overview: classroom/index.md
+  - Controllers:
+      - Overview: controllers/index.md

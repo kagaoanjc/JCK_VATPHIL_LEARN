@@ -1,19 +1,50 @@
 # Briefings
 Here you will find aerodrome briefings for the airports within the Philippines! To start select an Aerodrome below.
 
-<div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 1rem;" markdown>
+<div class="grid cards" markdown>
 
-[RPLL](https://learn.vatphil.com/briefings/RPLL/){ .md-button .md-button--primary }
+-   **RPLL**
 
-[RPLC](https://learn.vatphil.com/briefings/RPLC/){ .md-button .md-button--primary }
+    ---
+    Ninoy Aquino International Airport
 
-[RPVM](https://learn.vatphil.com/briefings/RPVM/){ .md-button .md-button--primary }
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPLL/)
 
-[RPVE](https://learn.vatphil.com/briefings/RPVE/){ .md-button .md-button--primary }
+-   **RPLC**
 
-[RPMD](https://learn.vatphil.com/briefings/RPMD/){ .md-button .md-button--primary }
+    ---
+    Clark International Airport
 
-[RPHI](https://learn.vatphil.com/briefings/RPHI/){ .md-button .md-button--primary }
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPLC/)
+
+-   **RPVM**
+
+    ---
+    Mactan–Cebu International Airport
+
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPVM/)
+
+-   **RPVE**
+
+    ---
+    Godofredo P. Ramos Airport
+
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPVE/)
+
+-   **RPMD**
+
+    ---
+    Davao International Airport
+
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPMD/)
+
+-   **RPHI**
+
+    ---
+    Manila FIR
+
+    [Open Briefing →](https://learn.vatphil.com/briefings/RPHI/)
+
 </div>
 
 ## RPHI Briefing
