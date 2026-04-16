@@ -147,7 +147,7 @@ APP will then issue your arrival clearance including the type of approach to exp
 
     If APP didn't give you any turns after you have passed the last waypoint on your routing, maintain your present heading.
 
-[^1]: Controls RPVE, RPVK and RPVR
+[^1]: RPVK APP Controls RPVE, RPVK and RPVR
 
 *[GA]: General Aviation
 *[EOBT]: Estimated off block time
