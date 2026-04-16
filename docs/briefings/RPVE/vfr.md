@@ -150,7 +150,7 @@
 
 ## Visual Reporting Points
 
-![Area Chart](<../../assets/img/RPVE VFR/RP_AD_2_RPVE_EN_2026-03-19.pdf>)
+<iframe src="../../assets/img/RPVE VFR/AreaChart.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 | Reporting Point | Coordinates | Distance from ARP | Direction | Description |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@
 
 === "Runway 06"
 
-    ![Traffic Pattern 06](<../../assets/img/RPVE VFR/RP_AD_2_RPVE_CHART 2-23_en_2025-07-10.pdf>)
+    <iframe src="../../assets/img/RPVE VFR/rwy06.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 === "Runway 24"
 
-    ![Traffic Pattern 24](<../../assets/img/RPVE VFR/RP_AD_2_RPVE_CHART 2-24_en_2025-07-10.pdf>)
+    <iframe src="../../assets/img/RPVE VFR/rwy24.pdf" width="100%" height="600px" style="border:none;"></iframe>
