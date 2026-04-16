@@ -12,31 +12,31 @@ Here you will find aerodrome briefings for the airports within the Philippines! 
 -   **Luzon**
 
     ---
-    [Ninoy Aquino International Airport - RPLL →](https://learn.vatphil.com/briefings/RPLL/)
+    [RPLL →](https://learn.vatphil.com/briefings/RPLL/)
 
-    [Clark International Airport - RPLC →](https://learn.vatphil.com/briefings/RPLC/)
+    [RPLC →](https://learn.vatphil.com/briefings/RPLC/)
 
 -   **Visayas**
 
     ---
-    [Mactan–Cebu International Airport →](https://learn.vatphil.com/briefings/RPVM/)
+    [RPVM →](https://learn.vatphil.com/briefings/RPVM/)
 
-    [Godofredo P. Ramos Airport →](https://learn.vatphil.com/briefings/RPVE/)
+    [RPVE →](https://learn.vatphil.com/briefings/RPVE/)
 
-    [Kalibo International Airport →](https://learn.vatphil.com/briefings/RPVK/)
+    [RPVK →](https://learn.vatphil.com/briefings/RPVK/)
 
-    [Roxas Airport →](https://learn.vatphil.com/briefings/RPVR/)
+    [RPVR →](https://learn.vatphil.com/briefings/RPVR/)
 
 -   **Mindinao**
 
     ---
-    [Davao International Airport →](https://learn.vatphil.com/briefings/RPMD/)
+    [RPMD →](https://learn.vatphil.com/briefings/RPMD/)
 
 -   **RPHI**
 
     ---
 
-    [Manila FIR →](https://learn.vatphil.com/briefings/RPHI/)
+    [FIR →](https://learn.vatphil.com/briefings/RPHI/)
 
 </div>
 
