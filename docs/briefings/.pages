@@ -5,6 +5,7 @@ nav:
     - RPLC: RPLC
     - RPVM: RPVM
     - RPVE: RPVE
+    - RPVK: RPVK
     - RPMD: RPMD
     - Routes: routes.md
     - Facility Frequency: facility-frequency

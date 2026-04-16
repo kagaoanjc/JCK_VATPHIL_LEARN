@@ -185,7 +185,7 @@ When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPVE, r
 
 ## Arrival
 
-When arriving into Caticlan, it is best for you to be by FL140  when reaching the border of the TMA by the North or 9000 feet when reaching the border of the TMA by the South or the start of the STAR. On initial contact with Kalibo Approach (RPVK_APP), report your current level.
+When arriving into Kalibo, it is best for you to be by FL140  when reaching the border of the TMA by the North or 9000 feet when reaching the border of the TMA by the South or the start of the STAR. On initial contact with Kalibo Approach (RPVK_APP), report your current level.
 
 ??? phraseology "Phraseology"
 
