@@ -2,13 +2,51 @@ nav:
   - Welcome: index.md
   - Briefings:
       - Overview: briefings/index.md
-      - RPLL: briefings/RPLL/index.md
-      - RPLC: briefings/RPLC/index.md
-      - RPVM: briefings/RPVM/index.md
-      - RPVE: briefings/RPVE/index.md
-      - RPMD: briefings/RPMD/index.md
-      - RPHI: briefings/RPHI/index.md
+      - Aerodromes:
+          - RPLL:
+              - Briefing: briefings/RPLL/index.md
+              - Scenery: briefings/RPLL/scenery.md
+              - VFR: briefings/RPLL/vfr.md
+          - RPLC:
+              - Briefing: briefings/RPLC/index.md
+              - Scenery: briefings/RPLC/scenery.md
+              - VFR: briefings/RPLC/vfr.md
+          - RPVM:
+              - Briefing: briefings/RPVM/index.md
+              - Scenery: briefings/RPVM/scenery.md
+              - VFR: briefings/RPVM/vfr.md
+          - RPVE:
+              - Briefing: briefings/RPVE/index.md
+              - Scenery: briefings/RPVE/scenery.md
+              - VFR: briefings/RPVE/vfr.md
+          - RPMD:
+              - Briefing: briefings/RPMD/index.md
+              - Scenery: briefings/RPMD/scenery.md
+              - VFR: briefings/RPMD/vfr.md
+          - RPHI: briefings/RPHI.md
+      - General:
+          - Charts: briefings/charts.md
+          - CPDLC/PDC: briefings/cpdlc-pdc.md
+          - Routes: briefings/routes.md
+          - Facility Frequencies:
+              - Luzon: briefings/facility-frequency/Luzon.md
+              - Mindanao: briefings/facility-frequency/Mindanao.md
+              - Visayas: briefings/facility-frequency/Visayas.md
   - Classroom:
       - Overview: classroom/index.md
+      - Phraseology: classroom/phraseology.md
+      - Procedural Control: classroom/procedural-control.md
+      - RVSM: classroom/rvsm.md
+      - SID and STAR: classroom/sidandstar.md
+      - VFR: classroom/vfr.md
+      - Weather: classroom/weather.md
   - Controllers:
-      - Overview: controllers/index.md
+      - How To:
+          - Install: controllers/how-to/install.md
+          - Connect to CC: controllers/how-to/cc.md
+          - TrackAudio: controllers/how-to/trackaudio.md
+          - CPDLC: controllers/cpdlc.md
+      - Plugins:
+          - Overview: controllers/plugins/index.md
+          - Booking Manager: controllers/plugins/booking-manager.md
+          - CDM: controllers/plugins/cdm.md
