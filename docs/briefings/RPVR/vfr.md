@@ -135,7 +135,7 @@
 
 ## Visual Reporting Points
 
-<iframe src="../../assets/pdfs/RPVR.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/assets/pdfs/RPVR.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 | Reporting Point | Coordinates | Distance from ARP | Direction | Description |
 |---|---|---|---|---|
