@@ -1,6 +1,10 @@
-# Installing Sector Files
+# Sector Files
 
 The Philippines vACC utilizes EuroScope for its Air Traffic Controllers as it can host a near 1 to 1 system that the real world controllers use (TopSky).
+
+Currently, only approved controllers may use our sector files.
+
+# Installing Sector Files
 
 ## VATPHIL Updater
 
@@ -39,10 +43,10 @@ Once a folder is selected, the updater checks the remote files against your loca
 | Status | Button shown | What it means |
 |---|---|---|
 | Not installed | **Install Update** | No local files found |
-| Update available | **Install Update** | Remote AIRAC is newer than local |
+| Update available | **Install Update** | New AIRAC Available |
 | Up to date | **Force Repair / Reinstall** | Files match the latest release |
 
-Click **Install Update** (or **Force Repair / Reinstall**) to begin. A progress bar at the bottom of the status card will track the download. The sector line in your `.prf` profile files is updated automatically to match the new AIRAC cycle once the install completes.
+Click **Install Update** (or **Force Repair / Reinstall**) to begin. A progress bar at the bottom of the status card will track the download. The files is updated automatically to match the new AIRAC cycle once the install completes.
 
 ---
 
@@ -52,15 +56,17 @@ After installing, fill in the **Controller Details** panel in the left sidebar:
 
 | Field | What to enter |
 |---|---|
-| **Name** | Your full name (pre-filled from VATSIM) |
+| **Name** | Your name (or CID) |
 | **VATSIM CID** | Your VATSIM CID (pre-filled from VATSIM) |
 | **VATSIM Password** | Your VATSIM network password |
 | **Hoppie ACARS Code** | Your personal Hoppie logon code (optional) |
 
-Click **Apply** when done. The updater will write these details into all `.prf` profile files in your sector folder so EuroScope is ready to connect immediately.
+Click **Apply** when done. 
+
+EuroScope is ready to connect immediately!
 
 !!! warning
-    Your VATSIM password is saved locally in `config.json` next to the updater. Do not share this file.
+    Your VATSIM password is saved locally in `config.json` next to the updater. Do not share this file with anyone.
 
 ---
 
