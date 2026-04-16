@@ -135,7 +135,7 @@
 
 ## Visual Reporting Points
 
-![Area Chart](<../../assets/pdfs/area chart.pdf>)
+![Area Chart](<../../assets/pdfs/RPVR.pdf>)
 
 | Reporting Point | Coordinates | Distance from ARP | Direction | Description |
 |---|---|---|---|---|
