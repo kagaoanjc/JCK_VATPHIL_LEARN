@@ -91,25 +91,21 @@ You must read back the clearance in full. Listen carefully to all details that t
 
     **CEB123**: Cleared Manila, [routing], RUNWAY 14 [SID], Climb FL150, Squawk 4024, CEB123.
 
-## Pushback
+## Taxi
 
-A controller in Roxas will instruct you to taxi to the holding position at either the North TWY or South TWY depending on your assigned runway.
+In Roxas, expect to make a right-hand 180 turn to taxi to the runway
 
-For RWY 14 departures, aircraft from the South Ramp shall be pushed back towards the designated holding line.
+For RWY 14 departures, make a 180 to taxi and hold short runway 14 via North Taxiway
 
-For RWY 32 departures, aircraft from the North Ramp shall taxi out with power to the designated holding line.
-
-!!! warning
-
-    1. **Do not preplan your pushback!**
-    2. Connect the tug first!
-    3. No aircraft shall be taxied or towed without Control Tower authorization.
+For RWY 32 departures, make a 180 to taxi and hold short runway 32 via South Taxiway
 
 ??? phraseology "Phraseology"
 
-    **CEB123**: Roxas Tower, CEB123, Bay 1, request push and start, runway 14.
+    **CEB123**: Roxas Tower, CEB123, Bay 1, request taxi, runway 14.
 
-    **RPVR_TWR**: CEB123, push and start approved, face North.
+    **RPVR_TWR**: CEB123, make 180, taxi North taxiway hold short runway 14.
+
+    **CEB123**: 180 to taxi North taxiway hold short runway 14, CEB123.
 
 ## Departure
 
