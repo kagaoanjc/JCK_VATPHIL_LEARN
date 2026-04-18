@@ -33,7 +33,7 @@ An AFN (ATS Facilities Notification) log on is required when:
 - **Log On Address:** `RPHI`,`RPHX`,`RPHC`,`RPHN` or `RPHS`
 - Log on **prior to departing RPLL**, or **10–25 minutes before entering Manila FIR**
 
-### 3.3 Log On Requirements
+### Log On Requirements
 
 - Ensure all **flight-specific information** in the aircraft system matches the filed flight plan exactly to avoid automatic rejection.
 - Pilots unable to establish a data link connection shall **inform ATC on VHF**.
