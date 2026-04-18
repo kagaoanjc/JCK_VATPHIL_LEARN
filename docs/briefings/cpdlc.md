@@ -16,7 +16,7 @@ Automatic Dependent Surveillance – Contract / Controller–Pilot Data Link Com
 > In airspace where both VHF voice and CPDLC are available, flight crew **should use VHF** as the primary means of communication.
 !!! warning "Warning"
 
-    There are areas within the FIR where Controllers of Pilots will not hear each other due to radio wave propagation
+    There are areas within the FIR where Controllers and Pilots will not hear each other due to radio wave propagation
 
 ## Log On Procedures
 
