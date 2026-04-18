@@ -119,3 +119,7 @@ When contacting Manila Radio, keep in mind that they will not be able to see you
     Manila Radio, PAL123, Over BISIG 1300z, FL320, Next EXOMI at 1330z
 
 *[MNL_NE_CTR]: Manila Radio or Manila Control
+
+!!! warning "Warning"
+
+    There are areas within the FIR where Controllers of Pilots will not hear each other due to radio wave propagation

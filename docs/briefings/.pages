@@ -9,5 +9,5 @@ nav:
     - RPVR: RPVR
     - RPMD: RPMD
     - Routes: routes.md
+    - CPDLC: cpdlc.md
     - Facility Frequency: facility-frequency
-    - CPDLC / PDC: cpdlc-pdc.md
