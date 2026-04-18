@@ -326,6 +326,19 @@ When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPLL, r
 
     **RPLL_F_APP**: “PAL300, radar identified, continue climb 7000”
 
+### Runway 31
+
+For all departing IFR traffic on runway 31 must use the HARBO1 Departure.
+
+<div markdown class="grid" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+<div markdown>
+![Image title](../../assets/img/31.png)
+</div>
+<div markdown>
+After HARBO, Maintain 318°(M) until instructed by ATC.
+</div>
+</div>
+
 ### Runway Occupancy Time-Departure (ROTD)
 
 At RPLL we implement ROTD - Runway Occupancy Time-Departure for **A320 and lower**. ROTD of 45 seconds will start at the time the aircraft reaches no 1 position (lined-up on the runway threshold marker) and the pilot reads back the ATC’s take-off clearance to the time it is airborne (wheels off the ground).
