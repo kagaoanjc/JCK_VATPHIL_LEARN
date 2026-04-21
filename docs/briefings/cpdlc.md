@@ -1,10 +1,10 @@
 # CPDLC Procedures – Manila FIR
 
-## 1. Overview
+## Overview
 
 Automatic Dependent Surveillance – Contract / Controller–Pilot Data Link Communications (ADS-C/CPDLC) services are available to **FANS 1/A capable aircraft** operating on designated air routes within the Manila FIR.
 
-## 2. Data Link Airspace and Routes
+## Data Link Airspace and Routes
 
 | Sector | Routes | Primary Comms | Secondary Comms |
 |--------|--------|---------------|-----------------|
@@ -38,7 +38,7 @@ An AFN (ATS Facilities Notification) log on is required when:
 - Ensure all **flight-specific information** in the aircraft system matches the filed flight plan exactly to avoid automatic rejection.
 - Pilots unable to establish a data link connection shall **inform ATC on VHF**.
 
-## 4. ADS-C / CPDLC Operating Procedures
+## ADS-C / CPDLC Operating Procedures
 
 - Aircraft with an ADS-C/CPDLC connection to RPHI shall **send an ADS position report upon entering the FIR boundary**.
 - **Response medium must match the initiating medium:** respond to CPDLC via CPDLC; respond to voice via voice.
