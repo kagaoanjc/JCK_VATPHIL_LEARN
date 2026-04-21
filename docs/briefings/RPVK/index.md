@@ -159,7 +159,7 @@ You must read back the clearance in full. Listen carefully to all details that t
 
 ## Taxi
 
-In Kalibo, expect to make a right-hand 180 turn to taxi to the runway
+In Kalibo, expect to make a right-hand 180 turn to taxi to the runway.
 
 
 ??? phraseology "Phraseology"	

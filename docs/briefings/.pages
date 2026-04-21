@@ -1,5 +1,6 @@
 nav:
     - index.md
+    - RPHI FIR: rphi.md
     - Charts: charts.md
     - RPLC: RPLC
     - RPLL: RPLL
