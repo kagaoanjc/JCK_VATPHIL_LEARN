@@ -1,6 +1,155 @@
+---
+glightbox: false
+hide:
+  - toc
+---
+
 # Briefings
 
-Here you will find aerodrome briefings for the airports within the Philippines! To start select an Aerodrome below.
+Here you will find aerodrome briefings for the airports within the Philippines! To start, select an Aerodrome highlighted in red below.
+<div class="aero-map-outer">
+  <div class="aero-wrap" id="aeroWrap">
+    <img id="aeroImg" src="/assets/img/aerodromes.png" alt="Philippines Aerodrome Index Chart" data-no-lightbox />
+  </div>
+</div>
+<style>
+.aero-map-outer {
+  width: 100%;
+  overflow-x: auto;
+}
+.aero-wrap {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+.aero-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.aero-spot {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  z-index: 5;
+  text-decoration: none;
+}
+.aero-ring {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: rgba(220, 50, 50, 0.55);
+  border: 1.5px solid rgba(220, 50, 50, 0.85);
+  transition: background 0.12s, border-color 0.12s, transform 0.12s;
+}
+.aero-spot:hover .aero-ring {
+  background: rgba(220, 50, 50, 0.85);
+  border-color: rgba(220, 50, 50, 1);
+  transform: scale(1.7);
+}
+.aero-tip {
+  position: absolute;
+  bottom: calc(100% + 7px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1a0808;
+  border: 1px solid rgba(220, 80, 80, 0.7);
+  color: #ffcccc;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 5px 10px 4px;
+  border-radius: 5px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.12s;
+  z-index: 20;
+  line-height: 1.4;
+}
+.aero-tip .icao-code {
+  display: block;
+  font-size: 10px;
+  font-weight: 400;
+  color: #ff9999;
+  margin-top: 1px;
+}
+.aero-tip::after {
+  content: "";
+  position: absolute;
+  top: 100%; left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: rgba(220, 80, 80, 0.7);
+}
+.aero-spot:hover .aero-tip { opacity: 1; }
+.aero-caption {
+  font-size: 11px;
+  color: var(--md-default-fg-color--light);
+  margin-top: 6px;
+  font-style: italic;
+  text-align: center;
+}
+</style>
+
+<script>
+(function() {
+  const spots = [
+    { name: "Ninoy Aquino Intl",  icao: "RPLL", x: 40.2, y: 42.3 },
+    { name: "Clark Intl",         icao: "RPLC", x: 37.0, y: 38.8 },
+    { name: "Caticlan",           icao: "RPVE", x: 46.5, y: 55.4 },
+    { name: "Kalibo",             icao: "RPVK", x: 49.5, y: 56.6 },
+    { name: "Roxas",              icao: "RPVR", x: 52.2, y: 57.0 },
+    { name: "Mactan-Cebu Intl",   icao: "RPVM", x: 61.0, y: 63.5 },
+    { name: "Francisco Bangoy",   icao: "RPMD", x: 73.7, y: 79.7 },
+  ];
+  function build() {
+    const wrap = document.getElementById('aeroWrap');
+    if (!wrap) return;
+    wrap.querySelectorAll('.aero-spot').forEach(function(e) { e.remove(); });
+    const W = wrap.offsetWidth;
+    const img = document.getElementById('aeroImg');
+    const H = img.offsetHeight;
+    if (!H) return;
+
+    spots.forEach(function(s) {
+      const a = document.createElement('a');
+      a.className = 'aero-spot';
+      a.href = 'https://learn.vatphil.com/briefings/' + s.icao;
+      a.style.left = (s.x / 100 * W) + 'px';
+      a.style.top  = (s.y / 100 * H) + 'px';
+
+      const ring = document.createElement('div');
+      ring.className = 'aero-ring';
+
+      const tip = document.createElement('div');
+      tip.className = 'aero-tip';
+      tip.innerHTML = s.name + '<span class="icao-code">' + s.icao + '</span>';
+
+      a.appendChild(ring);
+      a.appendChild(tip);
+      wrap.appendChild(a);
+    });
+  }
+
+  function init() {
+    const img = document.getElementById('aeroImg');
+    if (!img) return;
+    if (img.complete && img.naturalHeight) {
+      build();
+    } else {
+      img.onload = build;
+    }
+    window.addEventListener('resize', build);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
 
 <style>
   .grid.cards p strong {
