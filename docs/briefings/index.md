@@ -24,7 +24,6 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
   z-index: 0;
 }
 
-/* Aerodrome Tooltip */
 .vp-tooltip {
   background: #1a1a1a !important;
   border: 1px solid rgba(220, 80, 80, 0.5) !important;
@@ -40,7 +39,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
 .vp-tt-type { font-size: 10px; color: #888; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 7px; }
 .vp-tt-hint { font-size: 10px; color: rgba(255,150,150,0.6); font-style: italic; }
 
-/* Right-side controls */
+
 .vp-right-controls {
   display: flex;
   flex-direction: column;
@@ -62,7 +61,6 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
   font-style: italic;
 }
 
-/* Individual sector entry in panel */
 .vp-sl-entry {
   margin-bottom: 8px;
   padding-bottom: 8px;
@@ -119,7 +117,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
   opacity: 0.5;
 }
 
-/* Layer Toggle */
+
 .vp-layer-control {
   background: #1a1a1a;
   border: 1px solid rgba(255,255,255,0.12);
@@ -134,7 +132,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
 .vp-layer-control input { cursor: pointer; accent-color: #dc3232; }
 .vp-layer-control .vp-swatch { display: inline-block; width: 18px; height: 3px; border-radius: 2px; flex-shrink: 0; }
 
-/* Day/Night */
+
 .vp-daynight-control {
   background: #1a1a1a;
   border: 1px solid rgba(255,255,255,0.12);
@@ -148,7 +146,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
 }
 .vp-daynight-btn:hover { background: rgba(255,255,255,0.07); color: #fff; }
 
-/* Copied toast */
+
 .vp-copy-toast {
   position: fixed;
   bottom: 24px;
@@ -177,7 +175,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
   border: none;
   pointer-events: none;
 }
-/* Overlap labels need pointer events for hover */
+
 .vp-sector-label.vp-overlap-label {
   pointer-events: auto !important;
   cursor: pointer;
@@ -230,7 +228,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
   font-family: sans-serif;
 }
 
-/* Marker */
+
 .vp-marker-wrap {
   position: relative; width: 22px; height: 22px;
   display: flex; align-items: center; justify-content: center;
@@ -248,7 +246,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
 }
 </style>
 
-<!-- Copy toast element -->
+
 <div id="vp-copy-toast" class="vp-copy-toast"></div>
 
 <script>
@@ -434,7 +432,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
     var tileLayer = L.tileLayer(TILES.night.url, { attribution: ATT, subdomains: 'abcd', maxZoom: 19 }).addTo(map);
 
     var highlightLayers = [];
-    // Track overlap highlight layers by sector id for hover effects
+    
     var overlapHighlightMap = {};
 
     function clearHighlights() {
@@ -473,7 +471,7 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
 
           var primaryFeature = matched[0];
 
-          // Draw overlapping sectors in blue — store by id for hover toggling
+          
           matched.forEach(function(f) {
             if (f.properties.id !== primaryFeature.properties.id) {
               var hl = L.geoJSON(f, {
@@ -485,14 +483,14 @@ Here you will find aerodrome briefings for the airports within the Philippines. 
             }
           });
 
-          // Draw primary sector in red on top
+          
           var hlClicked = L.geoJSON(primaryFeature, {
             style: { stroke: true, color: '#ff6666', weight: 2, fillColor: '#dc3232', fillOpacity: 0.45 },
             interactive: false
           }).addTo(map);
           highlightLayers.push(hlClicked);
 
-          // ── Label placement ─────────────────────────────────────────────────
+          // Label placement
           var LBL_PX_W = 160;
           var LBL_PX_H = 58;
           var LBL_PAD  = 8;
