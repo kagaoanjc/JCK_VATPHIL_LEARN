@@ -328,7 +328,7 @@ When **APP** or **CTR** is online, after passing 2000 feet or 5 DME from RPLL, r
 
 ### Runway 31
 
-For all departing IFR traffic on runway 31 must use the HARBO1 Departure.
+For all departing IFR traffic on runway 31 must use the **HARBO1** Departure.
 
 <div markdown class="grid" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
 <div markdown>
@@ -365,7 +365,7 @@ APP will then issue your arrival clearance including the type of approach to exp
 
 !!! warning
 
-    If APP didn’t give you any turns after you have passed the last waypoint on your routing, maintain your present heading.
+    If APP **did not** give you any turns after you have passed the last waypoint on your routing, maintain your present heading.
 
 Below is the mandatory speed restrictions when under vectors by approach.
 <p style="color: red; font-style: italic; font-weight: bold; text-align: center;">Please follow the following table unless instructed by ATC.</p>
