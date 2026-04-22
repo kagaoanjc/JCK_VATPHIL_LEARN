@@ -69,3 +69,7 @@
   display: block;
   border: none;
 }
+
+.md-header {
+    z-index: 9999 !important;
+}
