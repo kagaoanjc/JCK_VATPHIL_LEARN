@@ -1,6 +1,5 @@
 nav:
     - index.md
-    - RPHI FIR: rphi.md
     - Charts: charts.md
     - RPLC: RPLC
     - RPLL: RPLL
@@ -9,6 +8,7 @@ nav:
     - RPVK: RPVK
     - RPVR: RPVR
     - RPMD: RPMD
+    - RPHI FIR: rphi.md
     - Routes: routes.md
     - CPDLC: cpdlc.md
     - Facility Frequency: facility-frequency
